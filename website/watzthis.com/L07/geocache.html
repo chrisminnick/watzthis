@@ -1,0 +1,29 @@
+<html>
+ 
+<head>
+<title>
+Geocaching Lookup
+</title>
+<script>
+navigator.geolocation.getCurrentPosition(foundLocation, noLocation);
+ 
+function foundLocation(position)
+{
+  var lat = position.coords.latitude;
+  var long = position.coords.longitude;
+  document.location.href="http://www.geocaching.com/seek/nearest.aspx?origin_lat="+lat+"&origin_long="+long+"&dist=100&submit3=Search";
+ 
+}
+function noLocation()
+{
+  alert('Could not find location');
+}
+ 
+</script>
+ 
+</head>
+ 
+<body>
+<h1>Geocaching Near Me</h1>
+</body>
+</html>

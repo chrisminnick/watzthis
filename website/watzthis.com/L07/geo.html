@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>getCurrentPosition</title>
+</head>
+<body>
+<script>
+navigator.geolocation.getCurrentPosition(
+    
+function (position) {  
+    for (key in position.coords) {
+        document.write(key+': '+ position.coords[key]);
+        document.write ('<br>');
+        }
+    }
+);
+
+</script>
+</body>
+</html>

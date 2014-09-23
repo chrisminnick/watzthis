@@ -1,0 +1,40 @@
+#bigbox {
+    width: 250px;
+    height: 250px;
+    border: 10px;
+    border-style: solid;
+    border-color: purple;    
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+}
+
+.thinborder {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.starbox {
+    border:30px;
+    width: 250px;
+    height: 250px;
+    -webkit-border-image: url(star.jpg) 30 30 30 30 round round; 
+}
+
+.roundcorners {
+    -webkit-border-radius: 4px;
+}
+
+.shadow {
+    -webkit-box-shadow: 5px 5px gray;
+}
+
+.shadowtext {
+    text-shadow: 3px 3px 3px black;
+}
+
+.breakword {
+    word-wrap: break-word;
+}
