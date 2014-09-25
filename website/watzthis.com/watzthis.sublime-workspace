@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"current_site_name"
+			],
+			[
+				"primary",
+				"primarymemberseot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/wpfamous/front-page.php",
+			"settings":
+			{
+				"buffer_size": 850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chrisminnick/Downloads/eddiemachado-bones-e832688/library/bones.php",
+			"settings":
+			{
+				"buffer_size": 9117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/src/main.js",
+			"settings":
+			{
+				"buffer_size": 797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/functions.php",
+			"settings":
+			{
+				"buffer_size": 9385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/src/app/ListView.js",
+			"settings":
+			{
+				"buffer_size": 4022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/src/app/PageListView.js",
+			"settings":
+			{
+				"buffer_size": 3335,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/header.php",
+			"settings":
+			{
+				"buffer_size": 3411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/library/bones.php",
+			"settings":
+			{
+				"buffer_size": 9117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/library/css/app.css",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/wpfamous/src/app/StripListView.js",
+			"settings":
+			{
+				"buffer_size": 4789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mobile.html",
+			"settings":
+			{
+				"buffer_size": 584,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Choose Browser.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/src/app/StripListView.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Making/app.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/css/app.css",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Ultravisual/src/main.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Ultravisual/app.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/header.php",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/library/bones.php",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/css/app.css",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/src/app/ListView.js",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/src/app/PageListView.js",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/css/device.css",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/front-page.php",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/library/carousel/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/carousel/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/library/carousel/src/main.js",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/library/carousel/src/requireConfig.js",
+		"/Users/chrisminnick/WebProjects/famoUS Labs/carouselView/app/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/carousel/src/main.js",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/style.css",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/functions.php",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/boilerplate/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-content/themes/wpfamous/library/scss/style.scss",
+		"/Users/chrisminnick/WebProjects/watzthis/website/watzthis.com/wp-config.php",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Albumatic/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Breezi/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Interesting/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Lumosity/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Making/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/PHQ4/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Shine/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Steller/index.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Steller/app.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Taasky/app.html",
+		"/Users/chrisminnick/Dropbox/ed2go/fromstudents/l6.html",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/reference-tutorials/slideshow/start/src/views/SlideshowView.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/reference-tutorials/slideshow/start/src/main.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/reference-tutorials/slideshow/start/src/views/AppView.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/reference-tutorials/slideshow/start/src/views/SlideView.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/reference-examples/core/Context/context-in-existing-element/src/main.js",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/interface-demos/Airbnb/index.html",
+		"/Users/chrisminnick/Library/Application Support/Sublime Text 2/Packages/User/Choose Browser.sublime-build",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/s2hacks.php",
+		"/Users/chrisminnick/WebProjects/watzthis.com/index.html",
+		"/Users/chrisminnick/WebProjects/watzthis.com/css/app.css",
+		"/Users/chrisminnick/WebProjects/watzthis.com/wt.svg",
+		"/Users/chrisminnick/Desktop/wt2.svg",
+		"/Users/chrisminnick/WebProjects/famous-starter-kit/boilerplate/wt.svg",
+		"/Users/chrisminnick/Dropbox/SupplementSafety/css/flat.css",
+		"/Users/chrisminnick/Dropbox/SupplementSafety/index.html",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/tracking_functions.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/components.css",
+		"/Users/chrisminnick/WebProjects/kmSensors/www/index.html",
+		"/Users/chrisminnick/WebProjects/kmSensors/www/css/reset.css",
+		"/Users/chrisminnick/WebProjects/kmSensors/www/2column.html",
+		"/Users/chrisminnick/WebProjects/kmSensors/www/js/jquery.rs.slideshow.js",
+		"/Users/chrisminnick/WebProjects/kmSensors/buildup2/km1250Wide.html",
+		"/Users/chrisminnick/WebProjects/kmSensors/buildup2/km1000Wide.html",
+		"/Users/chrisminnick/Downloads/jquery_ui/README.txt",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/CHANGELOG.txt",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/config 3.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/config 2.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/index.php",
+		"/Users/chrisminnick/Downloads/nearnothing/index.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/niche.css",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/surpress-new-user-notification.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/1406309113.V811Id1009c8M560456.ps88872",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-2/search_offers_processor_test.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/search_offers_processor_test.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/header.php",
+		"/Users/chrisminnick/Dropbox/nodeJS/NewClassFiles/helloworld-debugging.js",
+		"/Users/chrisminnick/IntroNode/Exercises/HelloWorld.js",
+		"/Users/chrisminnick/NodeJSClass/IntroNode/Demos/non-blocking.js",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/footer.php",
+		"/Users/chrisminnick/IntroNode/nodetest2/package.json",
+		"/Users/chrisminnick/IntroNode/nodetest2/app.js",
+		"/Users/chrisminnick/IntroNode/nodetest2/views/index.jade",
+		"/Users/chrisminnick/IntroNode/nodetest2/routes/users.js",
+		"/Users/chrisminnick/IntroNode/nodetest2/views/layout.jade",
+		"/Users/chrisminnick/IntroNode/nodetest2/public/javascripts/global.js",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/bbg-custom-bp-field-visibility.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/sidebar-left.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/wp-config 2.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/layout.css",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/s2hack_eot_notify.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/gallery-caption.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/index.html",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/post-template.php",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/privacy.html",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/index 2.html",
+		"/private/var/folders/l6/5_w7qj7n4d91w__3q90sdbg40000gn/T/fz3temp-1/config.php",
+		"/Users/chrisminnick/Desktop/sublime.html",
+		"/Users/chrisminnick/Downloads/officer_page.php",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/prototypes/lesson1 - __proto__.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/prototypes/lesson2-Object.create.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/prototypes/lesson3-constructors.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/prototypes/messing-with-prototypes.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/callbacks/lesson1.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/callbacks/lesson2.js",
+		"/Users/chrisminnick/WebProjects/LearnJavaScript/callbacks/using-callbacks.js",
+		"/Users/chrisminnick/Downloads/www_nichedigitalconference_com/PositiveSSLCA2.crt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"title",
+			"main",
+			"scripts",
+			"EmptyView",
+			"AppView",
+			"EmptyView",
+			"has been renew",
+			"liabilit",
+			"#nav ul.primary-links",
+			"#nav ul.primary-links li.on",
+			"#nav ul.primary-links li.on ul a, #nav ul.primary-links li.off ul a",
+			"jd",
+			"smtp",
+			"chris",
+			"smtp",
+			"smtpInfo",
+			"sendMail",
+			"sockets",
+			"http",
+			"family_id",
+			"family_member_id",
+			"ow to",
+			"ow",
+			"twitter",
+			"button",
+			"jquery",
+			"shadow",
+			"background",
+			"font-weight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/wpfamous/front-page.php",
+					"settings":
+					{
+						"buffer_size": 850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chrisminnick/Downloads/eddiemachado-bones-e832688/library/bones.php",
+					"settings":
+					{
+						"buffer_size": 9117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								9117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/wpfamous/src/main.js",
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								777,
+								777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/wpfamous/functions.php",
+					"settings":
+					{
+						"buffer_size": 9385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9385,
+								9385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3329.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/wpfamous/src/app/ListView.js",
+					"settings":
+					{
+						"buffer_size": 4022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/wpfamous/src/app/PageListView.js",
+					"settings":
+					{
+						"buffer_size": 3335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 532.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/wpfamous/header.php",
+					"settings":
+					{
+						"buffer_size": 3411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2121,
+								2121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 500.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/wpfamous/library/bones.php",
+					"settings":
+					{
+						"buffer_size": 9117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9117,
+								9117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3809.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/wpfamous/library/css/app.css",
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp-content/themes/wpfamous/src/app/StripListView.js",
+					"settings":
+					{
+						"buffer_size": 4789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2458,
+								2458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "mobile.html",
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true
+}
