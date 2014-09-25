@@ -224,7 +224,7 @@ function js_localize($name, $vars) {
     echo "</script>\n";
 }
 
-function js_enqueue_scripts() {
+function enqueue_scripts() {
  
     
     // module loader
@@ -257,10 +257,7 @@ function js_enqueue_scripts() {
     wp_enqueue_style( 'famous-stylesheet' );
     wp_enqueue_script( 'famous' );
 
-    //wp_register_script( "main", get_template_directory_uri() . "/src/main.js");
-    //wp_enqueue_script( "main" );
-    //wp_localize_script( "main", "php_vars", $sitetitle );
 }
-add_action( "wp_enqueue_scripts", "js_enqueue_scripts" );
+add_action( "wp_enqueue_scripts", "enqueue_scripts" );
 
 /* DON'T DELETE THIS CLOSING TAG */ ?>

@@ -87,10 +87,14 @@ define(function(require, exports, module) {
 		this.textSurf = new Surface({
 			size: [this.options.width, this.options.height],
 			properties: {
-				webkitTransformOrigin: "50% 0"
+				webkitTransformOrigin: "25% 0"
 			},
 			content: '<div class="title">' + this.options.post_title + '</div>'
 		});
+
+
+
+
 
 		// PARAGRAPH SURFACE + MODIFIER
 		this.paragraphMod = new Modifier();
@@ -108,13 +112,13 @@ define(function(require, exports, module) {
 
 		// ADD to view to match modifier and surface, because doesn't work on containerSurf ???
 		this.add(this.imageMod).add(this.imageSurf);
-		this.add(this.banMod).add(this.banSurf);
+		//this.add(this.banMod).add(this.banSurf);
 		this.add(this.textMod).add(this.textSurf);
 		this.add(this.paragraphMod).add(this.paragraphSurf);
 
 		// ADD to container surf
 		this.itemContainer.add(this.imageSurf);
-		this.itemContainer.add(this.banSurf);
+		//this.itemContainer.add(this.banSurf);
 		this.itemContainer.add(this.textSurf);
 		this.itemContainer.add(this.paragraphSurf);
 
@@ -126,6 +130,14 @@ define(function(require, exports, module) {
 		this.paragraphMod.setTransform(
 			Transform.translate(0, this.options.height, 0)
 		);
+
+		/* todo: how to make it so you can click on the title to scroll to next strip? */
+		this.textSurf.on('click', function() {
+  			
+			console.log("click");
+
+
+		});
     }
 
 	// CUSTOM PUBLIC METHODS
@@ -136,7 +148,7 @@ define(function(require, exports, module) {
 	StripListView.prototype.parallax = function(y)
 	{
 		this.imageMod.setTransform(Transform.translate(0, y * 15, this.options.translateZ));
-		this.banMod.setTransform(Transform.translate(0, y, 0));
+		//this.banMod.setTransform(Transform.translate(0, y, 0));
 	};
 
 	// CUSTOM PUBLIC METHODS
@@ -155,19 +167,23 @@ define(function(require, exports, module) {
 				scaleOffset = 1 + (y / 100);
 			}
 
-			this.banMod.setOpacity(((100 - (-y + 100)) * 2) / 100);
+			//this.banMod.setOpacity(((100 - (-y + 100)) * 2) / 100);
 
-			this.textMod.setTransform(
-				Transform.translate(0, textOffsetY, 0)
-			);
+			
 
 			if(y > 1) {
 				this.paragraphMod.setTransform(
 					Transform.translate(0, textOffsetY + 50, 0)
 				);
+				this.textMod.setTransform(
+					Transform.translate(0, textOffsetY, 0)
+				);
 			}else {
 				this.paragraphMod.setTransform(
 					Transform.translate(0, this.options.height, 0)
+				);
+				this.textMod.setTransform(
+					Transform.translate(0, 10, 0)
 				);
 			}
 

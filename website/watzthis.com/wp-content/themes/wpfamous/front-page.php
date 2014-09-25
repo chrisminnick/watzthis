@@ -5,7 +5,7 @@
 						   'order' => 'ASC' );
 
 			$recent_posts = wp_get_recent_posts( $args, ARRAY_A );
-			//print_r $recent_posts;
+
 			$count = 0;
 			foreach( $recent_posts as $post ){
 				$thumb_id = get_post_thumbnail_id($post['ID']);	
@@ -20,6 +20,8 @@
 			$localized_vars = array("siteName"=> $current_site_name);
 			js_localize(php_vars,$localized_vars); 
 			?>
+
+
 			<script type="text/javascript">
 		    var recentPosts = <?php echo json_encode($recent_posts); ?>;
 			
@@ -31,4 +33,4 @@
 
 			
 
-<?php //get_footer(); ?>
+<?php get_footer(); ?>

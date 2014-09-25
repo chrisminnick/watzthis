@@ -32,7 +32,7 @@ define(function(require, exports, module) {
     PageListView.DEFAULT_OPTIONS = {
             stripWidth: undefined,
             stripHeight: 400,
-            topOffset: 50,
+            topOffset: 0,
 			listData: null
         };
 
